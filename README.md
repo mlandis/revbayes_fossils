@@ -106,3 +106,7 @@ Also download the detailed tutorial document:
 ### Getting Started
 
 Now that you have all the files and installed the software, execute RevBayes and follow the tutorial exercise. If you have any trouble, please ask for help. 
+
+### Workshop structure
+
+This workshop lesson was originally designed by Tracy Heath, Will Pett, and April Wright. Workshop itinerary was forked from https://github.com/ssb2017/revbayes_fossils.
