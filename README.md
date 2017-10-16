@@ -18,20 +18,20 @@ This workshop covers a very complicated analysis that requires the participants 
 
 Papers:
 
->Heath, T. A., Huelsenbeck, J. P., & Stadler, T. (2014). The fossilized birth–death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences, 111(29), E2957-E2966. [pdf](http://www.pnas.org/content/111/29/E2957.full.pdf)
+>Heath, T. A., Huelsenbeck, J. P., & Stadler, T. (2014). The fossilized birth–death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences, 111(29), E2957-E2966. ([pdf](http://www.pnas.org/content/111/29/E2957.full.pdf))
 
->Ronquist, F., Klopfstein, S., Vilhelmsen, L., Schulmeister, S., Murray, D. L., & Rasnitsyn, A. P. (2012). A total-evidence approach to dating with fossils, applied to the early radiation of the Hymenoptera. Systematic Biology, 61(6), 973-999. [pdf](https://academic.oup.com/sysbio/article-pdf/61/6/973/17830528/sys058.pdf)
+>Ronquist, F., Klopfstein, S., Vilhelmsen, L., Schulmeister, S., Murray, D. L., & Rasnitsyn, A. P. (2012). A total-evidence approach to dating with fossils, applied to the early radiation of the Hymenoptera. Systematic Biology, 61(6), 973-999. ([pdf](https://academic.oup.com/sysbio/article-pdf/61/6/973/17830528/sys058.pdf))
 
->Gavryushkina, A., Heath, T. A., Ksepka, D. T., Stadler, T., Welch, D., & Drummond, A. J. (2017). Bayesian total-evidence dating reveals the recent crown radiation of penguins. Systematic biology, 66(1), 57-73. [pdf](https://academic.oup.com/sysbio/article-pdf/66/1/57/19609000/syw060.pdf)
+>Gavryushkina, A., Heath, T. A., Ksepka, D. T., Stadler, T., Welch, D., & Drummond, A. J. (2017). Bayesian total-evidence dating reveals the recent crown radiation of penguins. Systematic biology, 66(1), 57-73. ([pdf](https://academic.oup.com/sysbio/article-pdf/66/1/57/19609000/syw060.pdf))
 
 
 
 
 Tutorials:
 
-* Basic Introduction to Rev and MCMC ([tutorial PDF](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Basics_Tutorial.pdf))
+* Basic Introduction to Rev and MCMC ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Basics_Tutorial.pdf))
 
-* Introduction to MCMC Simulation ([tutorial PDF](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf))
+* Introduction to MCMC Simulation ([tutorial pdf](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf))
 
 * Substitution Models for Time-Constrained Trees ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_CTMC_Tutorial.pdf))
 
