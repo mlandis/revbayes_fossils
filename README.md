@@ -109,4 +109,4 @@ Now that you have all the files and installed the software, execute RevBayes and
 
 ### Workshop structure
 
-This workshop lesson was originally designed by Tracy Heath, Will Pett, and April Wright. Workshop itinerary was forked from https://github.com/ssb2017/revbayes_fossils.
+This workshop was originally developed by Tracy Heath, Will Pett, and April Wright. Workshop itinerary was forked from https://github.com/ssb2017/revbayes_fossils.
