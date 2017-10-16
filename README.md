@@ -3,7 +3,7 @@
 ## Instructors: Rachel Warnock and Michael Landis
 
 ### General Information
-This workshop is a 3-hour session, held on October 21, 2017 at the [Geological Society of America Annual Conference in Seattle, WA USA](http://community.geosociety.org/gsa2017/home). The workshop will take place in Room 604 at the Washington State Convention Center.
+This workshop is a 3-hour session, held on October 21, 2017 at the [Geological Society of America Annual Conference in Seattle, WA USA](http://community.geosociety.org/gsa2017/home). The workshop will take place in Room 604 at the Washington State Convention Center. There will be no wifi available during the workshop so make sure you have all the relevant materials downloaded beforehand.
 
 This half-day workshop will guide participants through the theory and practice of combined inference of dated phylogenies using fossil and molecular data. For this workshop, participants should attend the RevBayes Introduction workshop or have previous experience using RevBayes. We will cover the background necessary to understand the fossilized birth-death process, relaxed clock models, and discrete morphological evolution. The tutorial provided will demonstrate how to perform a "total-evidence analysis" on a provided dataset. Additionally, participants can bring their own data to analyze.  
 
