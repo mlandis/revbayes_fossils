@@ -1,44 +1,45 @@
 # RevBayes: Analysis of Fossil and Molecular Data
 
-## Instructors: Tracy Heath, Walker Pett, and April Wright
+## Instructors: Rachel Warnock and Michael Landis
 
 ### General Information
-This workshop is a 3-hour session, held on January 8, 2017 at the [Society of Systematic Biologists Meeting in Baton Rouge, LA USA](https://ssb2017.github.io/). 
+This workshop is a 3-hour session, held on October 21, 2017 at the [Geological Society of America Annual Conference in Seattle, WA USA](http://community.geosociety.org/gsa2017/home). 
 
 This half-day workshop will guide participants through the theory and practice of combined inference of dated phylogenies using fossil and molecular data. For this workshop, participants should attend the RevBayes Introduction workshop or have previous experience using RevBayes. We will cover the background necessary to understand the fossilized birth-death process, relaxed clock models, and discrete morphological evolution. The tutorial provided will demonstrate how to perform a "total-evidence analysis" on a provided dataset. Additionally, participants can bring their own data to analyze.  
 
 ### Contact Information
 
-* Tracy Heath: `phylo at iastate dot edu`
-* Walker Pett: `willpett at iastate dot edu`
-* April Wright: `wright dot aprilm at gmail dot com`
+* Rachel Warnock: `rachel dot warnock at bsse dot ethz dot ch`
+* Michael Landis: `michael dot landis at yale dot edu`
 
-### Travel Awards -- Closed
+## Background Material
 
-The travel awards will be $400 each (for reimbursement of travel/registration to the conference) and preference will be given to students, early career scientists, and researchers working with natural history collections data.
+This workshop covers a very complicated analysis that requires the participants to specify complex statistical models. Unfortunately, the three-hour workshop will not afford enough time for us to review everything in detail. Yet, because of the challenging material, we expect all participants to have some previous experience with Bayesian phylogenetics before attending the workshop. Below is a list of papers and tutorials to help prepare those who are interested:
 
-To be eligible for an award, you must attend any TWO of the RevBayes workshops held at the SSB meeting. If one of those workshops is not the RevBayes Introduction, you must complete introductory materials that will be sent to you prior to the meeting (or demonstrate sufficient prior experience using RevBayes). 
+Papers:
 
-Support for these travel awards is provided by funds from NSF grant DEB-1556615 (awarded to T. Heath, D. Ksepka, & R. Meredith) and NSF grant DEB-1355071 (J. Brown & R. Thomson).
+>Heath, T. A., Huelsenbeck, J. P., & Stadler, T. (2014). The fossilized birth–death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences, 111(29), E2957-E2966. [pdf](http://www.pnas.org/content/111/29/E2957.full.pdf)
 
-Applications are no longer being accepted.
+>Ronquist, F., Klopfstein, S., Vilhelmsen, L., Schulmeister, S., Murray, D. L., & Rasnitsyn, A. P. (2012). A total-evidence approach to dating with fossils, applied to the early radiation of the Hymenoptera. Systematic Biology, 61(6), 973-999. [pdf](https://academic.oup.com/sysbio/article-pdf/61/6/973/17830528/sys058.pdf)
 
-## Required Background Material
+>Gavryushkina, A., Heath, T. A., Ksepka, D. T., Stadler, T., Welch, D., & Drummond, A. J. (2017). Bayesian total-evidence dating reveals the recent crown radiation of penguins. Systematic biology, 66(1), 57-73. [pdf](https://academic.oup.com/sysbio/article-pdf/66/1/57/19609000/syw060.pdf)
 
-This workshop covers a very complicated analysis that requires the participants to specify complex statistical models. Because of the challenging material, we expect all participants to have some previous experience using RevBayes before attending the workshop. This can be completed in two ways:
 
-1. Attend the Introduction to RevBayes Workshop on Jan. 7 ([https://github.com/ssb2017/revbayes_intro](https://github.com/ssb2017/revbayes_intro))
-2. Complete the introductory tutorials that are offered for the [introductory workshop](https://github.com/ssb2017/revbayes_intro):
-	* Basic Introduction to Rev and MCMC ([tutorial PDF](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Basics_Tutorial.pdf))
-	* Introduction to MCMC Simulation ([tutorial PDF](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf))
-	* Substitution Models for Time-Constrained Trees ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_CTMC_Tutorial.pdf))
-	* Partitioned Data Analysis ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Partition_Tutorial.pdf))
-	* *Optional*: Model Selection using Bayes Factors ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_BayesFactor_Tutorial.pdf))
+
+
+Tutorials:
+> Basic Introduction to Rev and MCMC ([tutorial PDF](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Basics_Tutorial.pdf))
+> Introduction to MCMC Simulation ([tutorial PDF](https://github.com/revbayes/revbayes_tutorial/blob/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf))
+> Substitution Models for Time-Constrained Trees ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_CTMC_Tutorial.pdf))
+> Partitioned Data Analysis ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_Partition_Tutorial.pdf))
+> *Optional*: Model Selection using Bayes Factors ([tutorial pdf](https://github.com/ssb2017/revbayes_intro/blob/master/tutorials/RB_BayesFactor_Tutorial.pdf))
+
+
 
 
 ## Install RevBayes
 
-This workshop will use RevBayes v1.0.3. It can be downloaded from [the latest release](https://github.com/revbayes/revbayes/releases/tag/v1.0.3-release) for Windows 7 or higher or for Mac OSX 10.6 or higher. For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
+This workshop will use RevBayes v1.0.6. It can be downloaded from [the latest release](https://github.com/revbayes/revbayes/releases/tag/v1.0.6-release) for Windows 7 or higher or for Mac OSX 10.6 or higher. For Unix systems, you can clone the source code from [https://github.com/revbayes/revbayes](https://github.com/revbayes/revbayes).
 
 ## Accessory Programs
 
@@ -54,9 +55,10 @@ The RevBayes workshops will also use additional for analysis of output and summa
 
 ## Workshop Outline
 ### Background and Theory
-([slides PDF](https://github.com/ssb2017/revbayes_fossils/blob/master/SSB_2017_TEFBD_slides.pdf))
 
-The course will begin with lectures on the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model in RevBayes. We will focus on the following models:
+[ Slides not yet available. ]
+
+The course will consist of a brief overview of the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model in RevBayes. We will focus on the following models:
 
 * Stochastic branching processes as tree priors, with particular emphasis on the fossilized birth-death model (FBD)
 * Models of lineage-specific substitution rates (or rates of morphological change)
