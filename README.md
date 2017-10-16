@@ -3,7 +3,7 @@
 ## Instructors: Rachel Warnock and Michael Landis
 
 ### General Information
-This workshop is a 3-hour session, held on October 21, 2017 at the [Geological Society of America Annual Conference in Seattle, WA USA](http://community.geosociety.org/gsa2017/home). 
+This workshop is a 3-hour session, held on October 21, 2017 at the [Geological Society of America Annual Conference in Seattle, WA USA](http://community.geosociety.org/gsa2017/home). The workshop will take place in Room 604 at the Washington State Convention Center.
 
 This half-day workshop will guide participants through the theory and practice of combined inference of dated phylogenies using fossil and molecular data. For this workshop, participants should attend the RevBayes Introduction workshop or have previous experience using RevBayes. We will cover the background necessary to understand the fossilized birth-death process, relaxed clock models, and discrete morphological evolution. The tutorial provided will demonstrate how to perform a "total-evidence analysis" on a provided dataset. Additionally, participants can bring their own data to analyze.  
 
@@ -23,7 +23,6 @@ Papers:
 >Ronquist, F., Klopfstein, S., Vilhelmsen, L., Schulmeister, S., Murray, D. L., & Rasnitsyn, A. P. (2012). A total-evidence approach to dating with fossils, applied to the early radiation of the Hymenoptera. Systematic Biology, 61(6), 973-999. ([pdf](https://academic.oup.com/sysbio/article-pdf/61/6/973/17830528/sys058.pdf))
 
 >Gavryushkina, A., Heath, T. A., Ksepka, D. T., Stadler, T., Welch, D., & Drummond, A. J. (2017). Bayesian total-evidence dating reveals the recent crown radiation of penguins. Systematic biology, 66(1), 57-73. ([pdf](https://academic.oup.com/sysbio/article-pdf/66/1/57/19609000/syw060.pdf))
-
 
 
 
@@ -63,7 +62,7 @@ The RevBayes workshops will also use additional for analysis of output and summa
 
 [ Slides not yet available. ]
 
-The course will consist of a brief overview of the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model in RevBayes. We will focus on the following models:
+The course will consist of a brief overview of the program RevBayes and the Rev language, in addition to a brief overview of the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model. We will focus on the following models:
 
 * Stochastic branching processes as tree priors, with particular emphasis on the fossilized birth-death model (FBD)
 * Models of lineage-specific substitution rates (or rates of morphological change)
