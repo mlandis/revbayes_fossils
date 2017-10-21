@@ -60,7 +60,7 @@ The RevBayes workshops will also use additional for analysis of output and summa
 ## Workshop Outline
 ### Background and Theory
 
-[ Slides not yet available. ]
+[ workshop slides ](GSA_2017_TEFBD_slides.pdf)
 
 The course will consist of a brief overview of the program RevBayes and the Rev language, in addition to a brief overview of the models and statistical methods for conducting a total-evidence analysis under the fossilized birth-death model. We will focus on the following models:
 
